@@ -1,3 +1,4 @@
 Django
-tzdata
 gunicorn
+tzdata
+whitenoise
